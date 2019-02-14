@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1516967124798-10656f7dca28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 150%;
+    background-position: center;
+    
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+
+.col{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#p{
+    margin-top: 10px;
+    background-color:rgba(245, 235, 235, 0.699);
+    padding: 10px;
